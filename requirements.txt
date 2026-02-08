@@ -1,0 +1,6 @@
+streamlit
+pillow
+numpy
+scikit-learn
+webcolors
+reportlab
