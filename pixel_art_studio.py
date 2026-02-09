@@ -487,4 +487,5 @@ with col_preview:
             else:
                 st.info("No PDF generated yet.")
     else:
-        st.info("👈 Upload an image on the left side and click Generate to see results.")
+        st.info("Upload an image and click Generate to see results.")
+
